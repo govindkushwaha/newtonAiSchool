@@ -27,7 +27,7 @@ header {
   justify-content: space-around;
   flex-wrap: wrap;
   position: fixed;
-  max-height: 60px;
+  max-height: auto;
   top: 0;
   z-index: 5;
 }

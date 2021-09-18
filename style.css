@@ -185,6 +185,9 @@ main {
   text-align: center;
 }
 
+.caption h3{
+	color: white;
+
 footer {
   background: rgb(7, 136, 211);
   text-align: center;
